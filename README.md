@@ -2,7 +2,7 @@
  ## Instructions for the Smart Contract Bug Bounty Track 
 
 # Hercules Protocol Bug Bounty Live!
-![HERC](https://github.com/anthemgold/brand-assets/herclogo.png)
+![HERC](https://github.com/AnthemGold/Brand-Assets/blob/master/HercLogo.png)
 Security is a top priority for Hercules. To make sure the protocol stays secure we are officially launching a Bug Bounty program, starting now.
 We are very pleased to let you know that the Hercules smart contracts have successfully been audited by Trusted Ledger Solutions, prior to main net launch. In both occasions, no major vulnerabilities have been found, but some minor errors still occur occassionaly .
 Now that the audits have been completed, we are launching a bug bounty program. The bug bounty currently targets the eight separate smart contracts listed below. The branch to audit is master.
