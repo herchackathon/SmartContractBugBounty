@@ -29,7 +29,7 @@ Critical vulnerabilities will be rewarded up to $5,000 USD equivalent in HERC to
 `The Hercules bounty program considers a number of variables in determining rewards. Determinations of eligibility, score and all terms related to rewards are at the sole and final discretion of the Hercules SEZC bug bounty panel.`
 `The value of rewards paid out will vary depending on severity. The severity is calculated according to the OWASP risk rating model based on Impact and Likelihood :`
 
-![ASTP](https://github.com/herchackathon/SmartcontractBugBounty/astp_risk_rating.png)
+![ASTP](https://github.com/herchackathon/SmartContractBugBounty/blob/master/astp_risk_rating.png)
 Reward sizes are guided by the rules below, but are ultimately determined at the sole discretion of the Hercules SEZC bug bounty panel.
 
 Reqards are paid in HERC. During our Presale HERC is .20 USD and is found at an equilivant cost of .00032 btc as of Oct 14, 2018. 
